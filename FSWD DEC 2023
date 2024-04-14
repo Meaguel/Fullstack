@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Full Stack Dev Workshop</title>
+        <meta name="viewport" content="width=device-width" />
+        <style contenteditable="display: block; font-family: monospace; white-space: pre;">
+            head {display:block;}
+            Head * {display: none;}
+            
+         </style>
+
+    </head>
+
+    <body>
+        <p>
+            <title>Sample Page</title>
+        </p>
+        <ul> 
+            <li>one</li>
+            <li>two</li>
+            <li>three</li>
+        </ul>
+
+        <ol>
+            <li>one</li>
+            <li>two</li>
+            <li>three</li>
+        </ol>
+
+        <div >
+              <Img src="w3school.jpg" alt="w3school.com" width="104" height="142">
+        </div>
+
+    </body>
+
+
+
+
+</html>
