@@ -68,3 +68,8 @@ input, select {
 .crypto-card p [data-positive="false"]{
     color: #942013;
 }
+
+.navigation-container {
+    display: flex;
+    justify-content: center;
+}
